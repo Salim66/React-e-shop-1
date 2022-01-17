@@ -1,0 +1,10 @@
+
+.product_img {
+    width: 100%;
+    height: 250px;
+}
+
+.old_price {
+    text-decoration: line-through;
+    color: red;
+}
